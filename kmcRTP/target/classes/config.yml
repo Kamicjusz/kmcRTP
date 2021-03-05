@@ -1,0 +1,11 @@
+# Message display when player don't have permission to command
+hasntPerms: "&cYou don't have permission to do that!"
+
+# range how far players can be teleported by random tp
+range: 1000
+
+# Message displayed after teleport
+# $X$ will be replace with X cordinate
+# $Y$ will be replace with Y cordinate
+# $Z$ will be replace with Z cordinate
+teleported_mess: "&bYou was teleported to cordinates: &7&lX: &r&7$X$ &7&lY: &r&7$Y$ &7&lZ: &r&7$Z$ "

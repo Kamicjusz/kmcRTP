@@ -1,0 +1,14 @@
+name: kmcRTP
+main: me.kamicjusz.randomtp.Main
+version: 1
+api-version: 1.16
+author: Kamicjusz
+prefix: kmcRTP
+commands:
+  rtp:
+    aliases: rantomtp
+    usage: /rtp
+permissions:
+  kmc.randomtp.admin:
+    default: op
+    description: Permission who give player full access of plugin
